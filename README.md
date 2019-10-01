@@ -7,8 +7,9 @@ A very simple React Redux Thunk boilerplate using styled components.
 - Change into the project directory and run `npm install`.
 - Run the JSON server by running the command `npm run json-server`.
 - Open another terminal window in the project directory and run `npm run start` to get started developing.
-- Run the command `npm run build` to build a production version of the project.
 - Then open the browser to `http://localhost:8080`.
+- Run the command `npm run build` to build a production version of the project.
+
 
 ## Building Production Version
 - To build a production version of the app run the command `npm run build`.
